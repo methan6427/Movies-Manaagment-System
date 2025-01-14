@@ -1,0 +1,86 @@
+Title: Toy Story
+Description: A cowboy doll is profoundly challenged when his owner replaces….
+Release Year: 1995
+Rating: 8.3
+Poster URL: https://posters.movieposterdb.com/13_05/1995/114709/s_114709_6645f9fc.jpg
+
+Title: Finding Nemo
+Description: After his son is captured in the Great Barrier Reef and taken to Sydney,…...
+Release Year: 2003
+Rating: 8.1
+Poster URL: https://posters.movieposterdb.com/22_12/2003/401422/s_finding-nemo-movie-poster_b4956c4d.jpg
+
+Title: Attack on Titan: Season 1
+Description: Eren Yeager and his friends join the military to fight against the Titans, humanoid creatures that devour humans, after their city is destroyed.
+Release Year: 2013
+Rating: 8.8
+Poster URL: https://cdn.noitatnemucod.net/thumbnail/300x400/100/debf027d032c6d40b91fab16b2ff9bd4.jpg
+
+Title: Attack on Titan: Season 2
+Description: After a brutal battle with the Titans, Eren and his friends uncover secrets behind the Titans' origin and the true nature of the world.
+Release Year: 2017
+Rating: 8.7
+Poster URL: https://resizing.flixster.com/ho8ZOAb275Ipizfe-x05tBVdtvY=/206x305/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p13993632_b_v8_ab.jpg
+
+Title: Attack on Titan: Season 3 Part 1
+Description: Eren, Mikasa, and Armin embark on a journey to uncover the truth behind the Titans, battling against both human and titan enemies.
+Release Year: 2018
+Rating: 9.0
+Poster URL: https://resizing.flixster.com/FC1oGG-UPBcsVYFIGHFP6FhiCXk=/206x305/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p15767582_b_v8_ab.jpg
+
+Title: Attack on Titan: Season 3 Part 2
+Description: The epic final battle between humanity and the Titans intensifies, as secrets are revealed about the true purpose of the Titans.
+Release Year: 2019
+Rating: 9.2
+Poster URL: https://cdn.noitatnemucod.net/thumbnail/300x400/100/98b21bfbd9fa3d49ec80ba8fe75ed5cd.jpg
+
+Title: Attack on Titan: Season 4 Part 1
+Description: The war between Marley and Eldians intensifies, with Eren Jaeger caught in a conflict that could reshape the future of the world.
+Release Year: 2020
+Rating: 9.4
+Poster URL: https://cdn.noitatnemucod.net/thumbnail/300x400/100/83da53919d7a20332be01686141f18f6.jpg
+
+Title: Attack on Titan: Season 4 Part 2
+Description: The battle for the survival of humanity continues as Eren Jaeger faces the full wrath of his enemies, pushing the world toward the brink of destruction.
+Release Year: 2022
+Rating: 9.5
+Poster URL: https://cdn.noitatnemucod.net/thumbnail/300x400/100/160831b6a0c1303e1439925d8f8c7395.jpg
+
+Title: Attack on Titan: Season 4 Part 3
+Description: In the final episodes, Eren's ultimate plan and the conflict between the last remaining humans and Titans come to a head.
+Release Year: 2023
+Rating: 9.6
+Poster URL: https://cdn.noitatnemucod.net/thumbnail/300x400/100/54d3f59bcc7caf1539c701eb0a064ec9.png
+
+
+Title: How to Train Your Dragon
+Description: A young Viking befriends a dragon and changes the course of his tribe's future.
+Release Year: 2010
+Rating: 8.1
+Poster URL: https://posters.movieposterdb.com/12_02/2010/892769/s_892769_9de942c2.jpg
+
+Title: How to Train Your Dragon 2
+Description: Hiccup and Toothless discover an ice cave that is home to hundreds of new dragons.
+Release Year: 2014
+Rating: 7.8
+Poster URL: https://posters.movieposterdb.com/14_05/2014/1646971/s_1646971_b0805cc6.jpg
+
+Title: How to Train Your Dragon: The Hidden World
+Description: Hiccup and Toothless embark on an epic journey to find the mythical Hidden World.
+Release Year: 2019
+Rating: 7.5
+Poster URL: https://posters.movieposterdb.com/23_11/2019/2386490/s_how-to-train-your-dragon-the-hidden-world-movie-poster_8311b0fc.jpg
+
+Title: Spider-Man: Into the Spider-Verse
+Description: Teenager Miles Morales becomes Spider-Man and meets other Spider-People from different dimensions.
+Release Year: 2018
+Rating: 8.4
+Poster URL: https://posters.movieposterdb.com/22_10/2018/4633694/s_spider-man-into-the-spider-verse-movie-poster_a7f62b30.jpeg
+
+Title: Spider-Man: Across the Spider-Verse
+Description: Spider-Man Miles Morales teams up with Spider-People from different dimensions to save the multiverse. 
+Release Year: 2023
+Rating: 8.9
+Poster URL: https://m.media-amazon.com/images/I/71FOVDLGr1L._AC_SY679_.jpg
+
+
