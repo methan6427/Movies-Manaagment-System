@@ -1,0 +1,309 @@
+.root {
+    -fx-font-family: BebasNeue;
+    -fx-font-size: 12pt;
+    -fx-background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f562aaf4-5dbb-4603-a32b-6ef6c2230136/dh0w8qv-9d8ee6b2-b41a-4681-ab9b-8a227560dc75.jpg/v1/fill/w_1192,h_670,q_70,strp/the_netflix_login_background__canada__2024___by_logofeveryt_dh0w8qv-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvZjU2MmFhZjQtNWRiYi00NjAzLWEzMmItNmVmNmMyMjMwMTM2XC9kaDB3OHF2LTlkOGVlNmIyLWI0MWEtNDY4MS1hYjliLThhMjI3NTYwZGM3NS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.LOYKSxIDqfPwWHR0SSJ-ugGQ6bECF0yO6Cmc0F26CQs');
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover;
+    -fx-background-position: center;
+}
+
+#moviesPane{
+    -fx-font-family: BebasNeue;
+    -fx-font-size: 12pt;
+    -fx-background-image: url('https://dnm.nflximg.net/api/v6/BvVbc2Wxr2w6QuoANoSpJKEIWjQ/AAAAQdHbjrX0uL1mH7uUW7VZ-p5GJOSNNRko_9A_12Mlv5wVYQIDy4nuupxLHxkDj9V0e1OLBs_s8ZlxFkyhPlK5XkrlTK0c7yP42LLinQdYhz8lqfgUcOH68JAbEcY45jG02gCI1NyKVf1lqxsQFmcNN5szbv8.jpg?r=aee');
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover;
+    -fx-background-position: center;
+}
+.button {
+    -fx-font-family: BebasNeue;
+    -fx-font-size: 10pt;
+    -fx-font-weight: bold;
+    -fx-padding: 5px 10px;
+    -fx-background-color: #E50914FF;
+    -fx-text-fill: #EED4D4FF;
+    -fx-border-color: #E50914FF;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+}
+
+.button:hover {
+    -fx-background-color: #D04E4E;
+    -fx-text-fill: #EED4D4FF;
+}
+
+.button:pressed {
+    -fx-background-color: #EED4D4FF;
+    -fx-text-fill: #E50914FF;
+}
+
+.table-view{
+    -fx-background-color: transparent;
+}
+
+.table-view:focused{
+    -fx-background-color: transparent;
+}
+
+
+.table-view .column-header-background{
+    -fx-background-color: linear-gradient(#131313 0%, #424141 100%);
+}
+
+.table-view .column-header-background .label{
+    -fx-background-color: transparent;
+    -fx-text-fill: #FFFFFF;
+}
+
+.table-view .column-header {
+    -fx-background-color: transparent;
+}
+
+.table-view .table-cell{
+    -fx-text-fill: #FFFFFF;
+}
+
+.table-row-cell{
+    -fx-background-color: -fx-table-cell-border-color, #616161;
+    -fx-background-insets: 0, 0 0 1 0;
+    -fx-padding: 0.0em;
+}
+
+.table-row-cell:odd{
+    -fx-background-color: -fx-table-cell-border-color, #424242;
+    -fx-background-insets: 0, 0 0 1 0;
+    -fx-padding: 0.0em;
+}
+
+.table-row-cell:selected {
+    -fx-background-color: #E50914FF;
+    -fx-background-insets: 0;
+    -fx-background-radius: 1;
+}
+
+.combo-box {
+    -fx-background-color: #000000;
+    -fx-text-fill: #FFFFFF;
+    -fx-font-family: BebasNeue;
+    -fx-font-size: 12pt;
+    -fx-font-weight: bold;
+    -fx-border-color: #E50914;
+    -fx-border-radius: 5px;
+    -fx-padding: 5px 10px;
+}
+
+.combo-box .text-field {
+    -fx-background-color: #000000;
+    -fx-text-fill: #FFFFFF;
+    ;
+    -fx-border-color: transparent;
+}
+
+.combo-box .arrow-button {
+    -fx-text-fill: #FFFFFF;
+}
+
+.combo-box .popup {
+    -fx-background-color: #000000;
+}
+
+.combo-box .list-cell {
+    -fx-text-fill: #FFFFFF;
+    -fx-background-color: #000000;
+}
+
+.combo-box .list-cell:hover {
+    -fx-background-color: #D04E4E;
+}
+.menu-bar{
+    -fx-background-color: transparent;
+}
+.menu{
+    -fx-background-color: transparent;
+    -fx-dark-text-color: #FFFFFF;
+    -fx-mid-text-color: #FFFFFF;
+    -fx-light-text-color: #FFFFFF;
+    fx-font-size: 14px;
+    -fx-font-weight: bold;
+}
+.menu:hover{
+    -fx-background-color:#000000;
+    -fx-dark-text-color:#FFFFFF;
+    -fx-mid-text-color:#FFFFFF;
+    -fx-light-text-color:#FFFFFF;
+
+}
+.menu:pressed{
+    -fx-background-color: #000000;
+    -fx-dark-text-color:  rgba(255, 0, 0, 0.78);
+    -fx-mid-text-color:  rgba(255, 0, 0, 0.78);
+    -fx-light-text-color: rgba(255, 0, 0, 0.78);
+}
+
+.menu-item {
+    -fx-background-color: black;
+    fx-dark-text-color:  rgba(255, 0, 0, 0.78);
+    -fx-mid-text-color:  rgba(255, 0, 0, 0.78);
+    -fx-light-text-color: rgba(255, 0, 0, 0.78);
+    fx-font-size: 14px;
+    -fx-font-weight: bold;
+}
+.menu-item:hover {
+    -fx-background-color:#000000;
+    -fx-dark-text-color:#FFFFFF;
+    -fx-mid-text-color:#FFFFFF;
+    -fx-light-text-color:#FFFFFF;
+}
+.menu-item:pressed{
+    -fx-background-color:  rgba(255, 0, 0, 0.78);
+    -fx-dark-text-color:#000000;
+    -fx-mid-text-color:#000000;
+    -fx-light-text-color:#000000;
+}
+
+.search-label {
+    -fx-font-weight: bold;
+    -fx-font-size: 12pt;
+    -fx-text-fill: #FFFFFF;
+}
+
+.search-field {
+    -fx-background-color: rgba(0, 0, 0, 0.5);
+    -fx-text-fill: white;
+    -fx-font-family: BebasNeue;
+    -fx-font-size: 12pt;
+    -fx-font-weight: bold;
+    -fx-border-color: rgba(255, 255, 255, 0.3);
+    -fx-border-radius: 5px;
+    -fx-padding: 5px 10px;
+}
+
+
+
+.search-button {
+    -fx-background-color: rgba(0, 0, 0, 0.5);
+    -fx-text-fill: white;
+    -fx-font-family: BebasNeue;
+    -fx-font-size: 12pt;
+    -fx-font-weight: bold;
+    -fx-border-color: rgba(255, 255, 255, 0.3);
+    -fx-border-radius: 5px;
+    -fx-padding: 5px 15px;
+}
+
+.search-button:hover {
+    -fx-background-color: rgba(255, 255, 255, 0.2); /* Light hover effect */
+    -fx-text-fill: white;
+}
+.pane {
+    -fx-background-color: linear-gradient(to bottom, #1e1e1e, #3e3e3e);
+    -fx-padding: 20px;
+}
+
+.field-label {
+    -fx-font-weight: bold;
+    -fx-font-size: 12pt;
+    -fx-text-fill: #FFFFFF;
+}
+
+.styled-field {
+    -fx-background-color: rgba(0, 0, 0, 0.5);
+    -fx-text-fill: white;
+    -fx-font-family: BebasNeue;
+    -fx-font-size: 12pt;
+    -fx-font-weight: bold;
+    -fx-border-color: rgba(255, 255, 255, 0.3);
+    -fx-border-radius: 5px;
+    -fx-padding: 5px 10px;
+    -fx-pref-height: 35px;
+}
+
+
+
+.styled-button {
+    -fx-background-color: rgba(0, 0, 0, 0.5);
+    -fx-text-fill: white;
+    -fx-font-family: BebasNeue;
+    -fx-font-size: 12pt;
+    -fx-font-weight: bold;
+    -fx-border-color: rgba(255, 255, 255, 0.3);
+    -fx-border-radius: 5px;
+    -fx-padding: 5px 15px;
+}
+
+.styled-button:hover {
+    -fx-background-color: rgba(255, 255, 255, 0.2);
+    -fx-text-fill: white;
+}
+.image-view {
+    -fx-border-color: rgba(255, 255, 255, 0.3);
+    -fx-border-radius: 5px;
+    -fx-padding: 10px;
+}
+.date-picker .text-field {
+    -fx-pref-width: 0;
+    -fx-opacity: 0;
+    -fx-padding: 0;
+    -fx-min-width: 0;
+}
+
+.date-picker .arrow-button {
+    -fx-background-color: rgba(0, 0, 0, 0.5);
+    -fx-dark-text-color:#FFFFFF;
+    -fx-mid-text-color:#FFFFFF;
+    -fx-light-text-color:#FFFFFF;
+    -fx-border-color: rgba(255, 255, 255, 0.3);
+    -fx-border-radius: 5px;
+    -fx-padding: 5px;
+    -fx-min-width: 30px;
+    -fx-min-height: 30px;
+}
+
+.date-picker:hover .arrow-button {
+    -fx-background-color: rgba(255, 255, 255, 0.2);
+}
+.date-picker .text-field {
+    -fx-pref-width: 0;
+    -fx-opacity: 0;
+    -fx-padding: 0;
+    -fx-min-width: 0;
+}
+
+.date-picker .arrow-button {
+    -fx-background-color: #E50914FF;
+    -fx-text-fill: white;
+    -fx-border-color: #E50914FF;
+    -fx-border-radius: 5px;
+    -fx-padding: 5px;
+    -fx-min-width: 30px;
+    -fx-min-height: 30px;
+}
+
+.date-picker:hover .arrow-button {
+    -fx-background-color: #D04E4E;
+}
+
+.date-picker .popup {
+    -fx-background-color: black;
+    -fx-border-color: rgba(255, 255, 255, 0.3);
+}
+
+.date-picker .cell {
+    -fx-background-color: black;
+    -fx-text-fill: white;
+}
+
+.date-picker .cell:hover {
+    -fx-background-color: rgba(255, 255, 255, 0.2);
+    -fx-text-fill: white;
+}
+
+.date-picker .cell:selected {
+    -fx-background-color: #E50914FF;
+    -fx-text-fill: white;
+}
+
+.date-picker .calendar-header {
+    -fx-background-color: black;
+    -fx-text-fill: white;
+}
